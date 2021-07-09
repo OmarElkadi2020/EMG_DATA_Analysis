@@ -1,0 +1,12 @@
+.DS_Store
+EMG Data
+__pycache__
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
