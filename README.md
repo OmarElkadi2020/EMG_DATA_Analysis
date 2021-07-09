@@ -13,9 +13,9 @@
     EMG Daten Analyse SP IAS-B-6.
 
 ## Proj Description:
-    ```
-        EMG data analysis to find the best exercises for the leg axis
-    ```
+
+    EMG data analysis to find the best exercises for the leg axis
+
 ## Description of the planed Impelementation:
 ```
 ```
