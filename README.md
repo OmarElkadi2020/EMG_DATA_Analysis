@@ -1,4 +1,5 @@
 # EMG Daten Analyse SP IAS-B-6
+clone https://mygit.th-deg.de/oe01264/emg-daten-analyse-sp-ias-b-6.git
 
 ## Author Name:
 
@@ -15,21 +16,3 @@
 ## Proj Description:
 
     EMG data analysis to find the best exercises for the leg axis
-
-## Description of the planed Impelementation:
-```
-```
-## Project initialisation
-
-```
-```
-
-### Compiles and hot-reloads for development
-
-```
-```
-
-### Compiles and minifies for production
-
-```
-```
