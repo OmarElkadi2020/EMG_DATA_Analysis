@@ -1,5 +1,4 @@
-# EMG Daten Analyse SP IAS-B-6
-clone https://mygit.th-deg.de/oe01264/emg-daten-analyse-sp-ias-b-6.git
+# EMG Daten Analyse SP
 
 ## Author Name:
 
